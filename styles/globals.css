@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Satoshi-Variable";
-  src: url("../assets/font/Satoshi-Variable.ttf");
+  src: url("/font/Satoshi-Variable.ttf");
 }
 
 :root {
